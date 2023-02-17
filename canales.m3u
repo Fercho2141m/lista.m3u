@@ -21920,3 +21920,42 @@ http://live247tv.com:1935/worodtcanal13/worodtcanal13/playlist.m3u8
 
 #EXTINF:-1 tvg-logo="https://i.ytimg.com/vi/u3-0ZnHM4GY/hqdefault.jpg" group-title="PUERTO RICO",WORO-TV Teleoro Canal 13*
 http://www.radiosargentina.com.ar/php/tvm3u.php?id=DIPR0008&mode=12
+#EXTM3U
+#EXTINF:-1 tvg-id="globorj.br" tvg-name="GLOBO SP FHD Max" tvg-logo="https://i.imgur.com/vO4nYTT.png" group-title="CANAIS | GLOBO",GLOBO SP FHD Max
+http://7go.xyz:8080/suderlanjoia/wAP0dZaE/54357
+#EXTINF:-1 tvg-id="globorj.br" tvg-name="GLOBO SP FHD¹" tvg-logo="https://i.imgur.com/2RRYLDc.png" group-title="CANAIS | GLOBO",GLOBO SP FHD¹
+http://7go.xyz:8080/suderlanjoia/wAP0dZaE/18533
+#EXTINF:-1 tvg-id="globosp.br" tvg-name="GLOBO SP FHD²" tvg-logo="https://i.imgur.com/vO4nYTT.png" group-title="CANAIS | GLOBO",GLOBO SP FHD²
+http://7go.xyz:8080/suderlanjoia/wAP0dZaE/22175
+#EXTINF:-1 tvg-id="redeglobo.br" tvg-name="GLOBO SP FHD ᶜᴰᴺ ²" tvg-logo="https://i.imgur.com/vO4nYTT.png" group-title="CANAIS | GLOBO",GLOBO SP FHD ᶜᴰᴺ ²
+http://7go.xyz:8080/suderlanjoia/wAP0dZaE/29601
+#EXTINF:-1 tvg-id="globorj.br" tvg-name="GLOBO SP HD¹" tvg-logo="https://i.imgur.com/vO4nYTT.png" group-title="CANAIS | GLOBO",GLOBO SP HD¹
+http://7go.xyz:8080/suderlanjoia/wAP0dZaE/18558
+#EXTINF:-1 tvg-id="globorj.br" tvg-name="GLOBO SP HD²" tvg-logo="https://i.imgur.com/vO4nYTT.png" group-title="CANAIS | GLOBO",GLOBO SP HD²
+http://7go.xyz:8080/suderlanjoia/wAP0dZaE/29602
+#EXTINF:-1 tvg-id="globorj.br" tvg-name="GLOBO SP HD ᶜᴰᴺ²" tvg-logo="https://i.imgur.com/vO4nYTT.png" group-title="CANAIS | GLOBO",GLOBO SP HD ᶜᴰᴺ²
+http://7go.xyz:8080/suderlanjoia/wAP0dZaE/18569
+#EXTINF:-1 tvg-id="globorj.br" tvg-name="GLOBO SP SD¹" tvg-logo="https://i.imgur.com/vO4nYTT.png" group-title="CANAIS | GLOBO",GLOBO SP SD¹
+http://7go.xyz:8080/suderlanjoia/wAP0dZaE/18576
+#EXTINF:-1 tvg-id="globorj.br" tvg-name="GLOBO SP SD²" tvg-logo="https://i.imgur.com/vO4nYTT.png" group-title="CANAIS | GLOBO",GLOBO SP SD²
+http://7go.xyz:8080/suderlanjoia/wAP0dZaE/50097
+#EXTINF:-1 tvg-id="globorj.br" tvg-name="GLOBO RJ FHD¹" tvg-logo="https://i.imgur.com/vO4nYTT.png" group-title="CANAIS | GLOBO",GLOBO RJ FHD¹
+http://7go.xyz:8080/suderlanjoia/wAP0dZaE/28776
+#EXTINF:-1 tvg-id="globorj.br" tvg-name="GLOBO RJ FHD²" tvg-logo="https://i.imgur.com/vO4nYTT.png" group-title="CANAIS | GLOBO",GLOBO RJ FHD²
+http://7go.xyz:8080/suderlanjoia/wAP0dZaE/18587
+#EXTINF:-1 tvg-id="globorj.br" tvg-name="GLOBO RJ FHD ᶜᴰᴺ²" tvg-logo="https://i.imgur.com/vO4nYTT.png" group-title="CANAIS | GLOBO",GLOBO RJ FHD ᶜᴰᴺ²
+http://7go.xyz:8080/suderlanjoia/wAP0dZaE/64728
+#EXTINF:-1 tvg-id="globorj.br" tvg-name="GLOBO RJ HD¹" tvg-logo="https://i.imgur.com/vO4nYTT.png" group-title="CANAIS | GLOBO",GLOBO RJ HD¹
+http://7go.xyz:8080/suderlanjoia/wAP0dZaE/18556
+#EXTINF:-1 tvg-id="globorj.br" tvg-name="GLOBO RJ HD²" tvg-logo="https://i.imgur.com/vO4nYTT.png" group-title="CANAIS | GLOBO",GLOBO RJ HD²
+http://7go.xyz:8080/suderlanjoia/wAP0dZaE/22171
+#EXTINF:-1 tvg-id="globorj.br" tvg-name="GLOBO RJ HD ᶜᴰᴺ ²" tvg-logo="https://i.imgur.com/vO4nYTT.png" group-title="CANAIS | GLOBO",GLOBO RJ HD ᶜᴰᴺ ²
+http://7go.xyz:8080/suderlanjoia/wAP0dZaE/22169
+#EXTINF:-1 tvg-id="globorj.br" tvg-name="GLOBO RJ SD¹" tvg-logo="https://i.imgur.com/vO4nYTT.png" group-title="CANAIS | GLOBO",GLOBO RJ SD¹
+http://7go.xyz:8080/suderlanjoia/wAP0dZaE/18574
+#EXTINF:-1 tvg-id="globorj.br" tvg-name="GLOBO RJ SD²" tvg-logo="https://i.imgur.com/vO4nYTT.png" group-title="CANAIS | GLOBO",GLOBO RJ SD²
+http://7go.xyz:8080/suderlanjoia/wAP0dZaE/64895
+#EXTINF:-1 tvg-id="globorj.br" tvg-name="GLOBO BAHIA/SALVADOR FHD¹" tvg-logo="https://i.imgur.com/2RRYLDc.png" group-title="CANAIS | GLOBO",GLOBO BAHIA/SALVADOR FHD¹
+http://7go.xyz:8080/suderlanjoia/wAP0dZaE/18529
+#EXTINF:-1 tvg-id="globosp.br" tvg-name="GLOBO REDE BAHIA/SALVADOR FHD²" tvg-logo="https://i.imgur.com/2RRYLDc.png" group-title="CANAIS | GLOBO",GLOBO REDE BAHIA/SALVADOR FHD²
+http://7go.xyz:8080/suderlanjoia/wAP0dZaE/109039
